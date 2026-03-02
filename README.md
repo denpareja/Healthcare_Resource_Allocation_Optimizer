@@ -73,7 +73,17 @@ Counties rank higher when:
 
 ---
 
-## 6. Strategic Recommendations
+## 6. Visual Insights
+
+### Resource Allocation Priority Matrix
+![Priority Matrix](outputs/priority_scatter.png)
+
+### Top Counties Needing Intervention
+![Top Counties](outputs/top10_priority.png)
+
+---
+
+## 7. Strategic Recommendations
 Healthcare leaders could use this framework to:
 
 - Prioritize funding allocation to underserved counties
@@ -83,7 +93,7 @@ Healthcare leaders could use this framework to:
 
 ---
 
-## 7. Business Impact
+## 8. Business Impact
 If implemented operationally, this model enables organizations to:
 
 - Reduce preventable hospitalizations
@@ -95,7 +105,7 @@ Instead of reactive resource allocation, organizations can shift toward **predic
 
 ---
 
-## 8. Tools Used
+## 9. Tools Used
 - Python
 - pandas
 - NumPy
@@ -106,12 +116,12 @@ Instead of reactive resource allocation, organizations can shift toward **predic
 
 ---
 
-## 9. Executive Takeaway
+## 10. Executive Takeaway
 This project demonstrates how integrated healthcare analytics can transform raw public data into strategic decision intelligence. By combining risk metrics with workforce supply indicators, organizations gain a clear, quantitative roadmap for targeted intervention.
 
 ---
 
-## 10. Consulting Relevance
+## 11. Consulting Relevance
 This project reflects real-world consulting work typically performed in:
 
 - healthcare strategy firms
