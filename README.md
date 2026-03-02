@@ -75,11 +75,22 @@ Counties rank higher when:
 
 ## 6. Visual Insights
 
+## Visual Insights
+
 ### Resource Allocation Priority Matrix
-![Priority Matrix](outputs/priority_scatter.png)
+![Priority Matrix](outputs/scatter_priority.png)
+
+### Log Scale View
+![Log Scale Scatter](outputs/scatter_log_scale.png)
 
 ### Top Counties Needing Intervention
 ![Top Counties](outputs/top10_priority.png)
+
+### Priority Distribution
+![Priority Distribution](outputs/priority_distribution.png)
+
+### Quadrant Breakdown
+![Quadrant Breakdown](outputs/quadrant_counts.png)
 
 ---
 
